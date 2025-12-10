@@ -3,7 +3,7 @@
 ## Socket Connection Scripts
 - Server.py sets up a listening TCP server.
 - Client.py connects, sends data, receives a response.
-- Includes error handling and graceful shutdown.
+- Includes error handling and shutdown.
 
 ## Port Scanner Script
 - Scans a target host over a specified port range.
